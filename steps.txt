@@ -1,0 +1,14 @@
+Criar um projeto
+
+    npx create-expo-app@latest GalloFlix --template blank
+
+    cd GalloFlix
+
+Instalação dos pacotes
+    npx expo install react-dom react-native-web @expo/metro-runtime
+    
+    npm i @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs
+
+    npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler @react-native-masked-view/masked-view
+
+    npm i firebase
